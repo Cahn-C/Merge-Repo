@@ -1,3 +1,20 @@
-Languages:
-- English
-- Japanese
+English
+- Hello my name is Chaanyah Laborde, nice to meet you
+- I am 23 years old and I have a bachelors in compuer science
+- My favorite food is chicken
+- I like to work out a lot and play basketball and mma
+- I will become 6 foot 2 before the end of this year
+
+Spanish
+- Hola mi nombre es Chaanyah Laborde, gusto en conocerte
+- Tengo 23 años y soy licenciado en ciencias de la computacion
+- Mi comida favorita es pollo
+- Me gusta hacer mucho ejercicio y jugar baloncesto y mma.
+- Llegaré a medir 6 pies 2 antes de fin de año.
+
+Japanese
+- こんにちは、Chaanyah Laborde です。はじめまして。
+- 私は 23 歳で、コンピュータ サイエンスの学士号を取得しています。
+- 好きな食べ物はチキン
+- 私はよく運動し、バスケットボールと総合格闘技をするのが好きです
+- 私は今年中に6フィート2になります
